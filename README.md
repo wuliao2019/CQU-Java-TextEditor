@@ -38,3 +38,6 @@ Notes:
 ◎ The program has been compiled with JDK14.0.2, if the JRE version is lower, it may not work, please upgrade the JRE version or recompile.   
 ◎ Most functions already support shortcut keys   
 ◎ The source code is all located in Exp2.java   
+
+程序界面：
+![image](pic/Text%20Editor.png)
